@@ -1,1 +1,1 @@
-# ML-project Workflow
+# ML Project Workflow
